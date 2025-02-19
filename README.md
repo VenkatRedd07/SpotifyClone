@@ -10,7 +10,7 @@ The project is built using HTML, CSS, and JavaScript and focuses on delivering a
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/VenkatRedd07/RecipeGenius_Project.git
+  git clone https://github.com/VenkatRedd07/SpotifyClone.git
 ```
 2. Navigate to the project directory:
 ```bash
